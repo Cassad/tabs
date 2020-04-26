@@ -59,7 +59,7 @@
 					<div class="description">
 						<div class="description-title">Здоровый позвоночник</div>
 						<div class="description-text">
-              какой-то тект внутри таба
+						      какой-то тект внутри таба
 						</div>
 						<div class="description-btn">
 							Узнать подробнее
@@ -73,8 +73,8 @@
 					<div class="description">
 						<div class="description-title">Антистресс</div>
 						<div class="description-text">
-              какой-то тект внутри таба
-            </div>
+              					     какой-то тект внутри таба
+           					</div>
 						<div class="description-btn">
 							Узнать подробнее
 						</div>
@@ -87,8 +87,8 @@
 					<div class="description">
 						<div class="description-title">Восстановление</div>
 						<div class="description-text">
-              какой-то тект внутри таба
-            </div>
+              					    какой-то тект внутри таба
+           					</div>
 						<div class="description-btn">
 							Узнать подробнее
 						</div>
@@ -101,8 +101,8 @@
 					<div class="description">
 						<div class="description-title">Йога и аюрведа</div>
 						<div class="description-text">
-              какой-то тект внутри таба
-            </div>
+              				           какой-то тект внутри таба
+            					</div>
 						<div class="description-btn">
 							Узнать подробнее
 						</div>
